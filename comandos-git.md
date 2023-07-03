@@ -7,13 +7,22 @@ Es un sistema de control de versiones distribuido, nos sirve como una herramient
 
 Es una plataforma en la nube que permite alojar proyectos utilizando el sistema de control de versiones **Git**, se utiliza a través de una interfaz web
 
+ - ¿Qué es el Staging Area?
+
+Es una área donde se almacena información acerca de lo que estará en tu próximo **commit**
+
+ - ¿Qué es un commit?
+ - ¿Qué comando utilizo para agregar archivos modificados al staging area?
+ - ¿Qué comando utilizo para agregar archivos preparados al repositorio?
+ - ¿Cuál es el nombre por defecto de la rama principal de mi proyecto?
+
 ## Comandos de Git
-1. Comando para inicializar el proyecto en git
+1. Comando para inicializar un proyecto en git
 ```
 git init
 ```
 2. Este comando me permite verificar la conexión de mi repo local con el repositorio remoto 
 ```
 git remote -v
-
+```
 
