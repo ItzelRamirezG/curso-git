@@ -12,6 +12,9 @@ Es una plataforma en la nube que permite alojar proyectos utilizando el sistema 
 Es una área donde se almacena información acerca de lo que estará en tu próximo **commit**
 
  - ¿Qué es un commit?
+
+Es la confirmación de un cambio
+
  - ¿Qué comando utilizo para agregar archivos modificados al staging area?
  - ¿Qué comando utilizo para agregar archivos preparados al repositorio?
  - ¿Cuál es el nombre por defecto de la rama principal de mi proyecto?
