@@ -15,9 +15,19 @@ Es una área donde se almacena información acerca de lo que estará en tu próx
 
 Es la confirmación de un cambio
 
- - ¿Qué comando utilizo para agregar archivos modificados al staging area?
- - ¿Qué comando utilizo para agregar archivos preparados al repositorio?
+ - ¿Qué comando se utiliza para agregar archivos modificados al staging area?
+
+ git add -A 
+ git add . -> añade todos los archivos modificados
+ git add "nombre del archivo" -> añade archivos específicos
+
+ - ¿Qué comando se utiliza para agregar archivos preparados al repositorio?
+
+git commit 
+
  - ¿Cuál es el nombre por defecto de la rama principal de mi proyecto?
+
+master
 
 ## Comandos de Git
 1. Comando para inicializar un proyecto en git
