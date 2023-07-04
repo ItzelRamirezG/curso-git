@@ -38,4 +38,20 @@ git init
 ```
 git remote -v
 ```
+3. Comando que muestra los estados del archivo del repositorio
+```
+git status 
+```
+4. Muestra registros de confirmación
+```
+git log
+```
+5. Verifica el estatus de los repositorios
+```
+git remote -v
+```
+6. Envía la información a el repositorio remoto
+```
+git push -u origin master
+```
 
